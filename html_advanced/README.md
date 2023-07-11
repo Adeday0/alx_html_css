@@ -1,1 +1,1 @@
-This is for my ALX's Advanced HTML project
+ALX's Advanced HTML project
