@@ -222,8 +222,8 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     letter-spacing: var(--nav-item-letter-spacing);
   }
 
-  .nav-item {
-    margin: var(--nav-item-margin);
+  .nav-item + .nav-item {
+    margin: 0 0 0 2rem;
   }
   
   .nav .nav-link {
